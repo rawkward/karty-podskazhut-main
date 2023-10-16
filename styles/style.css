@@ -60,6 +60,7 @@ button[disabled] {
 
 .header__title {
   font-size: clamp(3.75rem, 2.5rem + 5.5556vw, 7.5rem);
+  padding-block-start: 10%;
   padding-block-end: 40px;
 }
 
